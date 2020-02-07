@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe.config
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.pdb
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Form1.resources
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Properties.Resources.resources
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.exe
+C:\Users\afpa\source\repos\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.pdb
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe.config
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.pdb
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Form1.resources
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Properties.Resources.resources
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.exe
+E:\cours Afpa2\C#\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.pdb
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe.config
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.exe
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\bin\Debug\CaseAcocher.pdb
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Form1.resources
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.exe
+E:\cours Afpa2\C# WindowsForm\CaseAcocher\CaseAcocher\obj\Debug\CaseAcocher.pdb

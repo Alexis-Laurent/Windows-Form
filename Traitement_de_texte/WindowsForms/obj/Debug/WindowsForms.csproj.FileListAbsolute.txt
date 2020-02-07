@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\afpa\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+E:\cours Afpa2\C#\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+E:\cours Afpa2\C# WindowsForm\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb

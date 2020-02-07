@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\afpa\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+E:\cours Afpa2\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+E:\cours Afpa2\C# WindowsForm\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb

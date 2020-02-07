@@ -1,0 +1,16 @@
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.NumeriqueTextBox.resources
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\bin\Debug\HeritageControle.dll
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\bin\Debug\HeritageControle.pdb
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.dll
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.pdb
+C:\Users\afpa\source\repos\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\bin\Debug\HeritageControle.dll
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\bin\Debug\HeritageControle.pdb
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.NumeriqueTextBox.resources
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.dll
+E:\cours Afpa2\C#\HeritageControle\HeritageControle\obj\Debug\HeritageControle.pdb

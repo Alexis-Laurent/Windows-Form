@@ -1,0 +1,25 @@
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.exe.config
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.exe
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.pdb
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\bin\Debug\HeritageControle.dll
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\bin\Debug\HeritageControle.pdb
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.Form1.resources
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.Properties.Resources.resources
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.CopyComplete
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.exe
+C:\Users\afpa\source\repos\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.pdb
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.exe.config
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.exe
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\bin\Debug\ComposentHerite.pdb
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\bin\Debug\HeritageControle.pdb
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.Form1.resources
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.csproj.CopyComplete
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.exe
+E:\cours Afpa2\C# WindowsForm\ComposentHerite\ComposentHerite\obj\Debug\ComposentHerite.pdb

@@ -1,0 +1,30 @@
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe.config
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.pdb
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Form1.resources
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Properties.Resources.resources
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.exe
+E:\cours Afpa2\C#\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.pdb
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe.config
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.pdb
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Form1.resources
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Properties.Resources.resources
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.exe
+C:\Users\afpa\source\repos\LectureEcritureFichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.pdb
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe.config
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.exe
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\bin\Debug\LectureEcritureFichier.pdb
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Form1.resources
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.exe
+E:\cours Afpa2\C# WindowsForm\Lecture_ecriture_fichier\LectureEcritureFichier\obj\Debug\LectureEcritureFichier.pdb

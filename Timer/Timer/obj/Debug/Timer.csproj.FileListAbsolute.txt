@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\afpa\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\afpa\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\afpa\source\repos\Timer\Timer\obj\Debug\Timer.pdb
+E:\cours Afpa2\C#\Timer\Timer\bin\Debug\Timer.exe.config
+E:\cours Afpa2\C#\Timer\Timer\bin\Debug\Timer.exe
+E:\cours Afpa2\C#\Timer\Timer\bin\Debug\Timer.pdb
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.exe
+E:\cours Afpa2\C#\Timer\Timer\obj\Debug\Timer.pdb
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\bin\Debug\Timer.exe.config
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\bin\Debug\Timer.exe
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\bin\Debug\Timer.pdb
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.exe
+E:\cours Afpa2\C# WindowsForm\Timer\Timer\obj\Debug\Timer.pdb

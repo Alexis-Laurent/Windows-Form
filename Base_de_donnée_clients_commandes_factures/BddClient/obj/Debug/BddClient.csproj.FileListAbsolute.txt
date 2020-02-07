@@ -1,0 +1,43 @@
+C:\Users\afpa\source\repos\BddClient\BddClient\bin\Debug\BddClient.exe.config
+C:\Users\afpa\source\repos\BddClient\BddClient\bin\Debug\BddClient.exe
+C:\Users\afpa\source\repos\BddClient\BddClient\bin\Debug\BddClient.pdb
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.Form1.resources
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.Properties.Resources.resources
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.exe
+C:\Users\afpa\source\repos\BddClient\BddClient\obj\Debug\BddClient.pdb
+E:\cours Afpa2\C#\BddClient\BddClient\bin\Debug\BddClient.exe.config
+E:\cours Afpa2\C#\BddClient\BddClient\bin\Debug\BddClient.exe
+E:\cours Afpa2\C#\BddClient\BddClient\bin\Debug\BddClient.pdb
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.Form1.resources
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.Properties.Resources.resources
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.exe
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.pdb
+E:\cours Afpa2\C#\BddClient\BddClient\obj\Debug\BddClient.Form2.resources
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\bin\Debug\BddClient.exe.config
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\bin\Debug\BddClient.exe
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\bin\Debug\BddClient.pdb
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.Form1.resources
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.Form2.resources
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.exe
+E:\cours Afpa2\C# WindowsForm\BddClient\BddClient\obj\Debug\BddClient.pdb
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\bin\Debug\BddClient.exe.config
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\bin\Debug\BddClient.exe
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\bin\Debug\BddClient.pdb
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.Form1.resources
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.Form2.resources
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.exe
+E:\cours Afpa2\C# WindowsForm\Base_de_donnée_clients\BddClient\obj\Debug\BddClient.pdb

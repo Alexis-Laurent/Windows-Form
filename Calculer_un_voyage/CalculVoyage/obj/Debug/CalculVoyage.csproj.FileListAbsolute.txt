@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe.config
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.pdb
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Form1.resources
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Properties.Resources.resources
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.exe
+C:\Users\afpa\source\repos\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.pdb
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe.config
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.pdb
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Form1.resources
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Properties.Resources.resources
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.exe
+E:\cours Afpa2\C#\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.pdb
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe.config
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.exe
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\bin\Debug\CalculVoyage.pdb
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Form1.resources
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.exe
+E:\cours Afpa2\C# WindowsForm\CalculVoyage\CalculVoyage\obj\Debug\CalculVoyage.pdb

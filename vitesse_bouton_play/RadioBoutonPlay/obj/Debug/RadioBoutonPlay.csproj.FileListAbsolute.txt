@@ -1,0 +1,30 @@
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe.config
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.pdb
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Form1.resources
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Properties.Resources.resources
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.GenerateResource.cache
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.exe
+C:\Users\afpa\source\repos\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.pdb
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe.config
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.pdb
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csprojAssemblyReference.cache
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Form1.resources
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Properties.Resources.resources
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.GenerateResource.cache
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.exe
+E:\cours Afpa2\C#\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.pdb
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe.config
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.exe
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\bin\Debug\RadioBoutonPlay.pdb
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csprojAssemblyReference.cache
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Form1.resources
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.Properties.Resources.resources
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.GenerateResource.cache
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.csproj.CoreCompileInputs.cache
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.exe
+E:\cours Afpa2\C# WindowsForm\RadioBoutonPlay\RadioBoutonPlay\obj\Debug\RadioBoutonPlay.pdb
